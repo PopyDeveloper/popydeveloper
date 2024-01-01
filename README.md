@@ -14,6 +14,8 @@
 
 # About
 
+<p>
+I'm a dedicated React developer with a passion for crafting extraordinary user experiences. From building intuitive interfaces to solving complex challenges, I thrive on creating software that leaves a lasting impact. With a keen eye for detail and a commitment to excellence, I bring innovation and efficiency to every project.<p>
 
 <p dir="auto">
   
