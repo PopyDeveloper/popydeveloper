@@ -2,7 +2,7 @@
 
 <h3 align="center">⎡ React Software Engineer ⎤</h3>
 
-<div>
+<div style="disply: flex; justify-content: 'center';">
   <a href="mailto:rafa.dev@hotmail.com?subject=Contato by Github." target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="alsiam"/>
 </a>
