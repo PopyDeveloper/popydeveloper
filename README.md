@@ -1,6 +1,7 @@
 <h1 align="center">Rafael Silva</h1>
 
 <h3 align="center">⎡ React Software Engineer ⎤</h3>
+<h3 align="center">⎡ Engenheiro de Software React ⎤</h3>
 
 <h4 align="center" >
   <a href="mailto:rafa.dev@hotmail.com?subject=Contato by Github." target="_blank">
@@ -12,13 +13,13 @@
 </a>
 </h4>
 
-# About
-
-<p>
-Sou um desenvolvedor React dedicado e apaixonado por criar experiências de usuário extraordinárias. Desde a construção de interfaces intuitivas até a solução de desafios complexos, eu prospero na criação de software que deixa um impacto duradouro. Com um olhar atento ao detalhe e um compromisso com a excelência, trago inovação e eficiência para cada projeto.<p>
-
+## About
 <p>
 I'm a dedicated React developer with a passion for crafting extraordinary user experiences. From building intuitive interfaces to solving complex challenges, I thrive on creating software that leaves a lasting impact. With a keen eye for detail and a commitment to excellence, I bring innovation and efficiency to every project.<p>
+
+## Sobre
+<p>
+Sou um desenvolvedor React dedicado e apaixonado por criar experiências de usuário extraordinárias. Desde a construção de interfaces intuitivas até a solução de desafios complexos, eu prospero na criação de software que deixa um impacto duradouro. Com um olhar atento ao detalhe e um compromisso com a excelência, trago inovação e eficiência para cada projeto.<p>
 
 <p dir="auto"
 >
